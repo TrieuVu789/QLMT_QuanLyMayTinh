@@ -2,7 +2,7 @@ public class MayTinh {
     private HangSanXuat hangSanXuat;
     private Ngay ngaySanXuat;
     private double giaBan;
-    double thoiGianBaoHanh;
+    private double thoiGianBaoHanh;
 
     public MayTinh(HangSanXuat hangSanXuat, Ngay ngaySanXuat, double giaBan, double thoiGianBaoHanh) {
         this.hangSanXuat = hangSanXuat;
